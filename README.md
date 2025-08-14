@@ -2,7 +2,10 @@
 Referencias para estudo e entrega:https://www.youtube.com/watch?v=56N0P67ffIA
 https://docs.cypress.io/app/end-to-end-testing/writing-your-first-end-to-end-test?utm_source=chatgpt.com
 https://www.tutorialspoint.com/cypress/index.htm
-
+https://www.geeksforgeeks.org/software-testing/cypress-parents-method
+https://www.youtube.com/watch?v=Aa5YOT1Cgxs
+https://www.cypress.io/blog/cypress-for-beginners-5-commands-to-kickstart-your-testing-journey
+https://www.geeksforgeeks.org/software-testing/cypress-within-methodhttps://www.cypress.io/blog/understanding-selectors-in-testing
 
 Funcionalidade: Quadro Kanban
 
