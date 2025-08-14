@@ -1,4 +1,9 @@
 # meu-projeto-kanban
+Referencias para estudo e entrega:https://www.youtube.com/watch?v=56N0P67ffIA
+https://docs.cypress.io/app/end-to-end-testing/writing-your-first-end-to-end-test?utm_source=chatgpt.com
+
+
+
 Funcionalidade: Quadro Kanban
 
   Como usuário do quadro Kanban
